@@ -19,6 +19,12 @@ a {
   font-size: 16px;
 }
 
+footer {
+  text-align: right;
+  color: Gray;
+  font-size: 21px;
+}
+
 .description {
   font-size: 21px;
   color: Gray;
